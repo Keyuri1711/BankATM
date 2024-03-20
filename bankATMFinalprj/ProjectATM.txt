@@ -1,0 +1,12 @@
+CP001
+Bill Gates
+Windows
+4000100
+CP002
+Alexander cama
+Flipkart
+8877000
+CP003
+Luiza Maria
+Oracle
+9992211

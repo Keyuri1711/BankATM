@@ -1,0 +1,8 @@
+C:\fall 2022\420-AP1-AS\bankATMFinalprj\bankATMFinalprj\bin\Debug\bankATMFinalprj.exe.config
+C:\fall 2022\420-AP1-AS\bankATMFinalprj\bankATMFinalprj\bin\Debug\bankATMFinalprj.exe
+C:\fall 2022\420-AP1-AS\bankATMFinalprj\bankATMFinalprj\bin\Debug\bankATMFinalprj.pdb
+C:\fall 2022\420-AP1-AS\bankATMFinalprj\bankATMFinalprj\obj\Debug\bankATMFinalprj.csproj.AssemblyReference.cache
+C:\fall 2022\420-AP1-AS\bankATMFinalprj\bankATMFinalprj\obj\Debug\bankATMFinalprj.csproj.SuggestedBindingRedirects.cache
+C:\fall 2022\420-AP1-AS\bankATMFinalprj\bankATMFinalprj\obj\Debug\bankATMFinalprj.csproj.CoreCompileInputs.cache
+C:\fall 2022\420-AP1-AS\bankATMFinalprj\bankATMFinalprj\obj\Debug\bankATMFinalprj.exe
+C:\fall 2022\420-AP1-AS\bankATMFinalprj\bankATMFinalprj\obj\Debug\bankATMFinalprj.pdb
